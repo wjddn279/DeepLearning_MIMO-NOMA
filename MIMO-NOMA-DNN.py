@@ -140,9 +140,6 @@ loss2 = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits_v2(logits=output2
 train_op2 = tf.train.AdamOptimizer(1e-4).minimize(loss2)
 acc2 = accuracy(output2, la2, M)
 
-H1_real, H1_image = generate_channel(N, M, 0)
-H2_real, H2_image = generate_channel(N, M, 1)
-
 sess = tf.Session()
 sess.run(tf.global_variables_initializer())
 
