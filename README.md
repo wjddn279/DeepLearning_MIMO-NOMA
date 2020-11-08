@@ -2,7 +2,7 @@
 
 
 
-> hi, guys. I`m Jeongwoo Do in PNU EE
+> hi, guys. I`m Jeongwoo Do in *** EE
 
 > The repository is realization of MIMO_NOMA signal detection system based on **C. Lin et al., “A deep learning approach for MIMO-NOMA downlink signal detection,” MDPI Sensors, vol. 19, no. 11, pp. 2526, 2019. ** and traditional detection shceme to compare performance.
 
@@ -20,5 +20,6 @@
 >
 > - `MIMO_NOMA_channel_estimation_SIC.m` : the SIC detecion simulation,  but CSI (channel state information) is imperpect via channel estimation error
 
->If you are interested in my repository, feel free to contact email `wjddn279@pusan.ac.kr`
-
+>If you are interested in my repository, feel free to contact email `wjddn279@*****.**.**`
+Since I'm in a brind recruitment process, I'll cover my email for a moment. 
+If you have any questions, please leave them in issue.
